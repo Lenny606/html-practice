@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+    margin: 0;
+}
+
+.main_title {
+    background-color: aliceblue;
+
+}
+
+h1,
+h2,
+ul {
+    margin-left: 2rem;
+}
+
+p {
+    margin-left: 5rem;
+}
